@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ada9bbb-b78e-4af5-8be9-e4343e46c050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/App1Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/App2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/App3Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/App4Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/App5Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/App6Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/App7Kt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/MyJavaFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/Person1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/shubham/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyJavaFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/MyJavaFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/app1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/app2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/app3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/app4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/app5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/app6.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/app7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/shubham/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/Person.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/java/MyJavaFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/com/java/MyJavaFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/MyJavaFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/MyJavaFile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/kotlin/app7.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/app9.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="264">
+              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -53,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -76,16 +57,20 @@
         <option value="$PROJECT_DIR$/src/app7.kt" />
         <option value="$PROJECT_DIR$/src/com/kotlin/app2.kt" />
         <option value="$PROJECT_DIR$/src/com/java/MyJavaFile.java" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/app8.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/app9.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -157,36 +142,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.com.kotlin.App9Kt">
     <configuration name="MyJavaFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.MyJavaFile" />
       <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.kotlin.App3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.App3Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.kotlin.App5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.App5Kt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -217,13 +176,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.kotlin.App9Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.App9Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.kotlin.MyCustomKotlinFileName" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.MyCustomKotlinFileName" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.kotlin.App7Kt" />
+        <item itemvalue="Kotlin.com.kotlin.App9Kt" />
+        <item itemvalue="Kotlin.com.kotlin.MyCustomKotlinFileName" />
         <item itemvalue="Application.MyJavaFile" />
+        <item itemvalue="Kotlin.com.kotlin.App7Kt" />
         <item itemvalue="Kotlin.com.kotlin.App6Kt" />
-        <item itemvalue="Kotlin.com.kotlin.App5Kt" />
-        <item itemvalue="Kotlin.com.kotlin.App3Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -308,13 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/MyJavaFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/Person.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -338,8 +316,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kotlin/app7.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="-127">
           <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/MyJavaFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/app8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/app9.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
         </state>
       </provider>
     </entry>
