@@ -1,3 +1,5 @@
+package com.kotlin
+
 fun man(args: Array<String>) {
 
     // Ranges

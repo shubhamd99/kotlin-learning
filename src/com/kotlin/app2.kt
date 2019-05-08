@@ -1,4 +1,6 @@
-import com.shubham.Person
+package com.kotlin
+
+import com.java.Person
 
 fun main(args: Array<String>){
 

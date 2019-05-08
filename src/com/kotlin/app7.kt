@@ -1,11 +1,15 @@
+package com.kotlin
+
+import com.java.MyJavaFile
+
 // Methods in Kotlin
 fun main(args: Array<String>) {
 
     add()
-    var sum = add2(10,22)
+    var sum = add2(10, 22)
     println("The sum is" + sum)
 
-    var largeValue = maxNum(22,100)
+    var largeValue = maxNum(22, 100)
     println("The largest number is $largeValue")
 
     // From Java class file

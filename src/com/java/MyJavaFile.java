@@ -1,3 +1,7 @@
+package com.java;
+
+import com.kotlin.App7Kt;
+
 // Java interoperability
 public class MyJavaFile {
 

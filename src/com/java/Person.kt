@@ -1,4 +1,4 @@
-package com.shubham
+package com.java
 
 // Contstructor Class
 class Person(var name: String) {
