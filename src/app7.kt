@@ -7,6 +7,10 @@ fun main(args: Array<String>) {
 
     var largeValue = maxNum(22,100)
     println("The largest number is $largeValue")
+
+    // From Java class file
+    var getArea = MyJavaFile.getArea(10, 20)
+    println("Printing from java class : Area is $getArea")
 }
 
 
